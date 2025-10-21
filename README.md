@@ -109,3 +109,75 @@ kazdy zespół to mniej niż 10 osób, każdy zespół jest inter-dyscyplinarny 
 - Developerzy rozbijają User Stories na pojedyncze zadania
 
 # Scrum Master
+
+
+## Błędy:
+- Taskmaster
+- Lider Technologiczny
+
+## Checklista:
+(wg www.ScrumMasterChecklist.org)
+
+## Najczęściej zadawane Pytania 
+Jeden Scrum Master może być na parę zespołów, ale najlepiej SCrum Master == Zespół
+Byli kierownicy projektów nie zawsze są dobrymi Scrum Masterem (Scrum Master to Leader nie Kierownik)
+Scrum Master NIE MOŻE BYĆ product Ownerem
+SCrum Master jest potrzebny nawet w najbardziej doświadczonych Zespołach Scrumowych
+
+# Artefakty Scrumma 
+## Backlog Produktu: 
+Backlog to lista pomysłów, funkconalności wymagań technicznych i błędów projektów. Zarządzana i utwrzymywana przez PO. Jedyne Źródło pomyśłow 
+Każdy członek może dodawać, ale PO administruje.
+Im wyżej w Backlogu, tym większa wartość biznesowa w danym momencie. 
+Zespół Developerski może szacować Historyjki.
+Backlog nigdy nie jest ukończony.
+Jeden backlog to jeden zespół.
+W podejściu kaskadowym wymagania wybierają analitycy (wsm to słabe jest elo belo, w efekcje iest zdemottywowany zespół,który szybko traci zapał do pracy)
+
+SCRUM NIE OPIERA SIĘ ZMIANOM
+Backlog produktu jest żyjącym bytem.
+
+Forma Bcaklogu może być różna w zależności od preferencji Product Ownera (może być i tablica jak i Jira)
+## DEEP 
+Detailed Appropriately
+Estimated
+Emergent
+Prioritized
+
+### Historyjka użytkownika 
+
+Historyjki stanowi jednostkę funkcjonalności w projekcie EXtreme Programming. 
+Demonstrujemy postęp poprzez dostarczanie przetestowanych, zintegrawanych fragmentów kodu, które realizują historyjkę.
+(Zawsze pisana z punktu widzenia użytkownika) (ułatwia komunikację) (proste objaśnienie tego co checmy osiągnąc, dlaczego chcemy to zrobić etc.
+
+### ZASADA INVEST
+I - Independent 
+N - Negotiatiable
+V - Valueable
+E - Estimatable
+S - Small
+T - Testable
+
+### Zadania SMART
+S - Specific
+M - Mesurable
+A - Achivable
+R - Relevant 
+T - Time Boxed/Trackable
+
+### Pytania:
+Każdy może teorzyć historyjki użytkownika 
+Historyjki użytkonika pojawiają się nieustannie 
+Historyjki =/= dokumentacja wymagań
+
+
+### Kryterium Akceptacji:
+
+PO CO: 
+UŁATIAJĄ ZROZUMIENIE PERSPEKTYWY 
+S WYKORZYSTYWANE PRZY TWORZENIU SCENARIUSZY TESTOWYCH 
+POZWALAJĄ OKREŚLIĆ PO ASPEKTY 
+USUWAJĄ Z WYMAAŃ NIEJASNE SFORMUŁOWANIA
+
+## Backlog Prodkut 
+Zrobic
