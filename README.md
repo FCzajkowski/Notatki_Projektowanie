@@ -1,3 +1,6 @@
+>[!NOTE]
+> NOtatki z oprogramowania od BRyka
+
 # Tworzenie Produktu:
 
 # Kaskadowy
@@ -87,15 +90,22 @@ kazdy zespół to mniej niż 10 osób, każdy zespół jest inter-dyscyplinarny 
 - Istnieje Certyfikat Scrumowy dla Product Ownerów
 
 
-#Devfeloperzy 
+#Developerzy 
 ## Obowiązki Developerów 
-- yworzenie Inceremtu
+- Tworzenie Inceremtu
 - PO ustala Cel Sprintu razem z Dev.
 - Developerzy decyduja które User Stories są Wykonalne
     (Cz da się i Jak ?)
+- pod koniec scramu poazują jak się zmieniło i co.
 
+# Najszęstsze błędy
+- Developerzy nie należą do ludzi "typu T"
+- Zespół jest zbyt mały/zbyt Duży (większy niż 10 osób)
+- Zapominanie o Celu Sprintu
+- Spowiedź (na spotkaniach Scram)
 ## Jak wesprzeć ? 
 - Samosarządzanie
 - Inter-dyscryplinarność
 - Developerzy rozbijają User Stories na pojedyncze zadania
-- 
+
+# Scrum Master
